@@ -26,7 +26,7 @@ Para acessar o dashboard basta clicar neste [link](https://lookerstudio.google.c
 - Scikit-learn
 - import math
 - datetime, timedelta from datetime
-from datetime import datetime, timedelta
+
 
 # Autor
 
